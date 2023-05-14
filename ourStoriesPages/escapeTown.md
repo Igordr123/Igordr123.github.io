@@ -10,3 +10,4 @@ Hurry before the town gates close!
 
 <a href="https://www.town-escape.com/rezervacija/" class="btn">BOOK NOW</a>
 
+![escapeTown_image](/assets/escapeTown.jpg)
