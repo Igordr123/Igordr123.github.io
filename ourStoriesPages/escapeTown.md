@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Escape Town
 ---
 The Secret of Margareta’s Ring
 
