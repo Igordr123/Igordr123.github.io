@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About us
-permalink: /about/
+title: Escape Town
+permalink: /escapeTown/
 weight: 3
 ---
 
@@ -11,6 +11,6 @@ In 1396 the Loka custodian Nikolaj of Loka ordered the town jeweller and engrave
 
 Hurry before the town gates close!
 
-<a href="[http://example.com/](https://www.town-escape.com/rezervacija/)" class="btn">BOOK NOW</a>
+<a href="https://www.town-escape.com/rezervacija/" class="btn">BOOK NOW</a>
 
 ![escapeTown_image](/assets/escapeTown.jpg)
