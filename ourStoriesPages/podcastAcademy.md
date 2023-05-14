@@ -26,6 +26,6 @@ Academy of storytelling - where the intention is to help customer to become bett
 
 4) Longer supervision and training from 4 to 16 weeks.
 
-<a href="igor@lokatur.si" class="btn">I am interested</a>
+<a href="mailto:igor@lokatur.si" class="btn">I am interested</a>
 
 ![podcastAcademy_image](/assets/podcastAcademy.jpg)
