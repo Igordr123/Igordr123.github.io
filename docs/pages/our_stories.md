@@ -8,5 +8,5 @@ weight: 3
 * Podcast Academy
 * EU projects
 * Event organization
-* [Escape game](/ourStoryPages/escapeTown.md)
+* [Escape game](/ourStoryPages/escapeTown.html)
 * Tourism 
