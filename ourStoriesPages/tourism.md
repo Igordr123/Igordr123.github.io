@@ -6,7 +6,7 @@ We are really good at listening to your needs and assisting you in getting the b
 
 What makes Slovenia and our own region, with Škofja Loka as a base, unique is that there is never far for new experiences. We have a weakness for the good story. What does your best version of a vacation sound like?
 
-9 examples of vacation stories:
+**9 examples of vacation stories**:
 
 1) Gastronomy and the good life. 
 
