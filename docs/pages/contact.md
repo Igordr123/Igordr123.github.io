@@ -5,7 +5,7 @@ permalink: /contact/
 weight: 3
 ---
 
-Zadruga Lokatur 
+Lokatur 
 
 Podlubnik 46
 
