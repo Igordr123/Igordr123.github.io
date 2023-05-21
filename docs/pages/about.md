@@ -11,6 +11,6 @@ Mogens Cuber has a bachelor in Journalism from Danish School of Journalism (1990
 
 About Igor Drakulić
 
-Igor Drakulic has a university degree in journalism from University of Ljubljana (1991). He was a leading partner and project manager in several EU projects. He is business communications professional, organizer of international conferences, event manager, business editor and journalist.
+Igor Drakulić has a university degree in journalism from University of Ljubljana (1991). He was a leading partner and project manager in several EU projects. He is business communications professional, organizer of international conferences, event manager, business editor and journalist.
 
 ![aboutUs_image](/assets/aboutUs.jpg)
