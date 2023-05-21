@@ -13,7 +13,7 @@ Podlubnik 46
 
 Slovenija
 
-<a href="mailto:igor@lokatur.si">I am interested</a>
+<a href="mailto:igor@lokatur.si">igor@lokatur.si</a>
 
 +386 41 344 138
 
