@@ -1,5 +1,5 @@
 ---
-layout: post
+comments: false
 ---
 
 The Secret of Margareta’s Ring
