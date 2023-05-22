@@ -22,7 +22,7 @@ What makes Slovenia and our own region, with Škofja Loka as a base, unique is t
 
 7) Music and singing.
 
-8) Let's get wet - exploring rivers, streams and ponds in Škofja region).
+8) Let's get wet - exploring rivers, streams and ponds in Škofja Loka region).
 
-9) Grump Old Tour – let’s be grumpy together.
+9) Grumpy Old Tour – let’s be grumpy together.
 
