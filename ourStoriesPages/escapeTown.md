@@ -7,4 +7,6 @@ Hurry before the town gates close!
 
 <a href="https://www.town-escape.com/rezervacija/">BOOK NOW</a>
 
+<a href="https://www.youtube.com/watch?v=6SBr_c4uZa0">WATCH VIDEO</a>
+
 ![escapeTown_image](/assets/escapeTown.jpg)
