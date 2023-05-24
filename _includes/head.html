@@ -1,6 +1,6 @@
 <head>
 
-  {% assign title = page.title | default: Lokatur | escape %}
+  {% assign title = page.title | default: site.title | escape %}
   {% assign description = page.description | default: site.description | strip_html | strip_newlines | truncate: 160 %}
   {% assign image = page.image | default: site.author.image %}
 
@@ -17,7 +17,7 @@
   <meta property="og:description" content="{{ description }}">
   <meta property="og:image" content="{{ image }}">
 
-  <title>{{ title }}</title>
+  <title>{{ Lokatur }}</title>
   <meta name="description" content="{{ description }}">
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
