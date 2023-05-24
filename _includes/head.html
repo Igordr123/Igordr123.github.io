@@ -1,6 +1,6 @@
 <head>
   {% assign title = page.title | default: site.title | escape %}
-  {% assign description = page.description | default: site.description | strip_html | strip_newlines | truncate: 160 %}
+  {% assign description = "My Custom Description" %}
   {% assign image = page.image | default: site.author.image %}
 
   {% if page.name and page.collection == 'projects' %}
@@ -16,7 +16,7 @@
   <meta property="og:description" content="{{ description }}">
   <meta property="og:image" content="{{ image }}">
 
-  <title>{{ dasd }}</title>
+  <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
