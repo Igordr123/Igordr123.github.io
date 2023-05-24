@@ -1,5 +1,6 @@
 ### Site Settings ###
 title               : Lokatur
+description         : Lokatur
 source              : ../
 collections_dir     : docs
 data_dir            : docs/_data
