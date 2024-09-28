@@ -4,8 +4,6 @@ title: Our stories
 permalink: /our_stories/
 weight: 3
 ---
-dhasdkjhasjk
-
 * [Podcast Academy](/ourStoriesPages/podcastAcademy.html)
 * [EU projects](/ourStoriesPages/EUprojects.html)
 * Event organization
