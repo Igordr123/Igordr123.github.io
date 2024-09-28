@@ -6,7 +6,7 @@ weight: 3
 ---
 
 * [Podcast Academy](/ourStoriesPages/podcastAcademy.html)
-* EU projects
+* [EU projects](/ourStoriesPages/EUprojects.html)
 * Event organization
 * [Escape game](/ourStoriesPages/escapeTown.html)
 * [Tourism](/ourStoriesPages/tourism.html)
